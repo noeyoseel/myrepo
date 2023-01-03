@@ -4,7 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>index.jsp</title>
+<h2>GIT</h2>
+<fieldset>
+<legend>GIT수업</legend>
+<h4>재밌네</h4>
+</fieldset>
 </head>
 <body>
 
